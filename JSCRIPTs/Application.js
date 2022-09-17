@@ -364,7 +364,7 @@ let footer = $(`
 
             <div class="form-header"><h6 class="display">How Can I Help?</h6></div>
             
-            <form name="form1" action="https://formcarry.com/s/BywEPAJNb" method="POST" accept-charset="UTF-8">
+            <form name="form1" action="https://formcarry.com/s/G_2cRlI3I" method="POST" accept-charset="UTF-8">
               
               <input id="name" type="text" name="name" placeholder="Name" required/>
               <input id="email" type="email" name="email" placeholder="Email" required/>                  
