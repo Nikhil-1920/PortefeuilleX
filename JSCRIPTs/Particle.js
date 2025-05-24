@@ -2,8 +2,9 @@ particlesJS("particles-js", {
 
   particles: {
 
-    number: { value: 140, density: { enable: true, value_area: 800, }, }, 
-    color:  { value: ["#2EB67D", "#ECB22E", "#E01E5B", "#36C5F0"], },
+    number: { value: 90, density: { enable: true, value_area: 1000, }, }, 
+    color: { value: ["#667eea", "#764ba2", "#f093fb", "#4facfe"], },
+    // color:  { value: ["#2EB67D", "#ECB22E", "#E01E5B", "#36C5F0"], },
     shape:  { type: "circle", stroke: { width: 0, color: "#fff", }, polygon: { nb_sides: 5, },
       image: { src: "https://cdn.freebiesupply.com/logos/large/2x/slack-logo-icon.png", width: 100, height: 100, },
     },
