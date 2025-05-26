@@ -362,7 +362,7 @@ let footer = $(`
 
           <div class="form-style-6">
 
-            <div class="form-header"><h6 class="display">Contact?</h6></div>
+            <div class="form-header"><h6 class="display">Contact</h6></div>
             
             <form name="form1" action="https://formcarry.com/s/G_2cRlI3I" method="POST" accept-charset="UTF-8">
               
