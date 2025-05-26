@@ -373,7 +373,7 @@ let footer = $(`
               <div id="main">
 
                 <button id="lnch" type="button" value="Send">Send</button>
-                <div id="lnch_btn"><i class="fas fa-space-shuttle"></i></div>
+                <div id="lnch_btn"><i class="fas fa-paper-plane"></i></div>
               </div>
             </form>
           </div>
